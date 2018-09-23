@@ -1,0 +1,61 @@
+body {
+  margin-top: 15px;
+  background-color: deepskyblue;
+}
+
+#main {
+  background: url("http://backgroundcheckall.com/wp-content/uploads/2017/12/linkedin-background-image-technology-x-12.jpg")
+}
+
+h1 {
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: bold;
+  background-color: lightgrey !important;
+}
+
+h2 {
+  background-color: lightgrey !important;
+  text-align: center;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+h3 {
+  background-color: lightgrey !important;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+#ul {
+  background-color: deepskyblue;
+  max-width: 660px;
+  /* for  below IE7 use `width: 660px;` */
+  margin: auto;
+}
+
+#image {
+  width: 100%;
+  height: auto;
+  max-width: 660px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+#img-caption {
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+  background-color: lightgrey !important;
+}
+
+#blockquote {
+  font-weight: bold;
+  background-color: lightgrey !important;
+}
+
+#tribute-link {
+  background-color: white !important;
+  font-weight: bold;
+}
